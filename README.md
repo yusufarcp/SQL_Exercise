@@ -25,13 +25,13 @@ In this session, we learn everything related to SQL, starting from a basic intro
 - Advance Query SQL
 
 
-![Logo](https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png)
-
-
 ## Acknowledgements
 
  - [PostgreSQL Documentation](https://www.postgresql.org/docs/15/index.html)
  - [SQL tutorial](https://www.w3schools.com/sql/)
  - [Rakamin Academy](https://www.rakamin.com/)
  - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+
+
+![Logo](https://1000logos.net/wp-content/uploads/2020/08/PostgreSQL-Logo.png)
 
